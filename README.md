@@ -5,3 +5,5 @@ If you're using CachyOS, you may be happy with its current functionality but loo
 Not to worry! In this guide, we'll show you how to install the Nord theme manually on your KDE-based Linux distribution, so you can enjoy its beautiful aesthetic without any issues. With these simple steps, you'll be able to customize your desktop with the Nord theme, no matter which distro you choose.
 
 {Insert Text here because this is imcomplete}
+
+https://drive.google.com/drive/folders/1Az2s1ztu8adEC6goSgL-G8HId2mWR_kO?usp=share_link

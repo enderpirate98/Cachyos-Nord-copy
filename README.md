@@ -26,7 +26,7 @@ git clone https://github.com/CachyOS/CachyOS-Nord-KDE.git
 # Change into the cloned directory
 cd CachyOS-Nord-KDE
 
-# Review the PKGBUILD file located in the repository's cachyos-nord-kde folder
+# Review the PKGBUILD file located at https://github.com/CachyOS/CachyOS-PKGBUILDS/blob/master/cachyos-nord-kde/PKGBUILD#L24-L46
 # Note: Pay attention to the uncommented lines in the PKGBUILD file
 
 # Copy the necessary paths from the uncommented lines in the PKGBUILD file
